@@ -1,0 +1,80 @@
+body {
+	color: #ffffff;
+	font-family:Monospace;
+	font-size:13px;
+	text-align:center;
+	font-weight: bold;
+
+	background-color: #050505;
+	margin: 0px;
+	overflow: hidden;
+}
+
+#info {
+	position: absolute;
+	top: 0px; width: 100%;
+	padding: 5px;
+}
+
+a {
+	color: #ffffff;
+}
+
+#oldie a { color:#da0 }
+
+.container {
+	display: inline-block;
+	padding: 10px 20px;
+}
+
+.selector {
+	width: 33%;
+	position: absolute;	
+}
+
+
+.selector select {
+	border: #808080;
+    border-radius: 4px;
+    border-style: outset;
+    border-width: 1px;
+    color: #f8f8f8;
+    background: black;
+}
+
+.selector button {
+	border: #808080;
+    border-radius: 4px;
+    border-style: outset;
+    border-width: 1px;
+    color: #f8f8f8;
+    background: black;
+}
+.selector select:hover,  .selector button:hover {  background: #101010; }
+.selector select:active, .selector button:active { border-style: inset; }
+
+.axis {
+	font-size: 5px;
+    font-family: Roboto Thin;
+    stroke: white;
+    font-weight: lighter;
+    letter-spacing: 0.37em;
+}
+
+.tbl-bold {
+	font-size: 10px;
+    font-family: Roboto;
+    stroke: white;
+    font-weight: bold;
+    letter-spacing: 0.17em;
+}
+
+.toolbar {
+	margin-left: -30px;
+	background: #1a1a1a;
+	height: 100px;
+}
+
+.dg.main.a {
+	margin-top: 20px;
+}
