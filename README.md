@@ -12,7 +12,7 @@ Note: Chrome is highly recommended for this demo. Safari works ok.
 
 
 _Example Dashboard:_
-![Image of dashboard for volume rendering tool](https://github.com/dsherma7/Voronoi/blob/master/documentation/Dashboard.png "Logo Scattered Interpolation Dashboard")
+![Image of dashboard for volume rendering tool](https://github.com/dsherma7/VoronoiDiagrams/blob/master/documentation/Dashboard.png "Logo Voronoi Diagrams and Delauney Triangulation Dashboard")
 
 
 
